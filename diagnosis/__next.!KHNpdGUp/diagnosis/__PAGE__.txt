@@ -1,0 +1,33 @@
+3:"$Sreact.fragment"
+4:"/wannabe-marketing-site/_next/static/chunks/0cqgnxxf3uglm.js"
+5:I[39914,["$4"],"default"]
+6:I[80147,["$4"],"default"]
+b:"/wannabe-marketing-site/_next/static/chunks/44mjjcob6q2f-.js"
+c:"/wannabe-marketing-site/_next/static/chunks/20ki88j3hddl2.js"
+d:"/wannabe-marketing-site/_next/static/chunks/13i0u3ur35d-d.js"
+e:I[92129,["$4","$b","$c","$d"],"Image"]
+f:I[87732,["$4","$b","$c","$d"],""]
+10:I[25431,["$4","$b","$c","$d"],"DiagnosisTool"]
+11:I[8188,["$4"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[8188,["$4"],"$15"]
+17:"MetadataBoundary"
+18:I[8188,["$4"],"$17"]
+19:I[18637,["$4"],"IconMark"]
+:HL["/wannabe-marketing-site/_next/static/chunks/2srqadjlqrr4u.css","style"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[[["$","section",null,{"className":"DsQ9ba_hero DsQ9ba_withImage","data-hero":"","children":[["$","div",null,{"className":"DsQ9ba_media","aria-hidden":"true","children":["$","$Le",null,{"src":"/wannabe-marketing-site/images/diagnosis.webp","alt":"","fill":true,"priority":true,"sizes":"100vw"}]}],["$","div",null,{"className":"DsQ9ba_shade","aria-hidden":"true"}],["$","div",null,{"className":"container DsQ9ba_inner","children":[["$","nav",null,{"aria-label":"현재 위치","className":"DsQ9ba_crumbs","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$Lf",null,{"href":"/","children":"홈"}]}],["$","li","/diagnosis",{"children":["$","span",null,{"aria-current":"page","children":"무료 진단"}]}]]}]}],["$","h1",null,{"className":"DsQ9ba_titleWrap","children":[["$","span",null,{"className":"it DsQ9ba_en","children":"DIAGNOSIS"}],["$","span",null,{"className":"DsQ9ba_ko","children":["$undefined","무료 자가 진단"]}]]}],["$","p",null,{"className":"lead DsQ9ba_desc","children":"우리 매장에 해당하는 항목을 체크하면 점수와 먼저 보완할 서비스를 바로 보여 드립니다. 12개 항목, 1분이면 충분합니다."}],"$undefined"]}]]}],["$","section",null,{"className":"section section--tight","children":["$","div",null,{"className":"container","children":["$","$L10",null,{}]}]}]],[["$","link","0",{"rel":"stylesheet","href":"/wannabe-marketing-site/_next/static/chunks/2srqadjlqrr4u.css","precedence":"next"}],["$","script","script-0",{"src":"/wannabe-marketing-site/_next/static/chunks/13i0u3ur35d-d.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$9"}}]]
+2:[["children",{"s":"diagnosis","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"(site)","c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0a0a0b"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"무료 진단 | 워너비 마케팅"}],["$","meta","1",{"name":"description","content":"플레이스 정보부터 리뷰, SNS, 광고까지 12개 항목으로 우리 매장의 마케팅 상태를 1분 만에 점검해 보세요."}],["$","meta","2",{"property":"og:title","content":"워너비 마케팅 | WANNABE MARKETING"}],["$","meta","3",{"property":"og:description","content":"당신의 브랜드가, 사람들에게 선택받는 브랜드가 될 때까지"}],["$","meta","4",{"property":"og:site_name","content":"워너비 마케팅"}],["$","meta","5",{"property":"og:locale","content":"ko_KR"}],["$","meta","6",{"property":"og:image","content":"https://theshy3819.github.io/wannabe-marketing-site/images/hero-pin.webp"}],["$","meta","7",{"property":"og:image:width","content":"1536"}],["$","meta","8",{"property":"og:image:height","content":"1024"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"워너비 마케팅 | WANNABE MARKETING"}],["$","meta","12",{"name":"twitter:description","content":"당신의 브랜드가, 사람들에게 선택받는 브랜드가 될 때까지"}],["$","meta","13",{"name":"twitter:image","content":"https://theshy3819.github.io/wannabe-marketing-site/images/hero-pin.webp"}],["$","meta","14",{"name":"twitter:image:width","content":"1536"}],["$","meta","15",{"name":"twitter:image:height","content":"1024"}],["$","link","16",{"rel":"icon","href":"/wannabe-marketing-site/icon.svg?icon.275bcuhemv_k_.svg","sizes":"any","type":"image/svg+xml"}],["$","$L19","17",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$9"}},"a":"$@1b","u":"$@1c","b":"0IM3cHt8PCESayAXwJsfQ"}
+13:null
+1c:true
+9:300
+9:C
+1b:0
+7:"$undefined"
+1a:"$undefined"
+14:"$undefined"

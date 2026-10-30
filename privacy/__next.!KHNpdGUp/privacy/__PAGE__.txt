@@ -1,0 +1,31 @@
+3:"$Sreact.fragment"
+4:"/wannabe-marketing-site/_next/static/chunks/0cqgnxxf3uglm.js"
+5:I[39914,["$4"],"default"]
+6:I[80147,["$4"],"default"]
+b:"/wannabe-marketing-site/_next/static/chunks/44mjjcob6q2f-.js"
+c:"/wannabe-marketing-site/_next/static/chunks/20ki88j3hddl2.js"
+d:"/wannabe-marketing-site/_next/static/chunks/2rvqzk7lwj19o.js"
+e:I[87732,["$4","$b","$c","$d"],""]
+f:I[8188,["$4"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[8188,["$4"],"$13"]
+15:"MetadataBoundary"
+16:I[8188,["$4"],"$15"]
+17:I[18637,["$4"],"IconMark"]
+:HL["/wannabe-marketing-site/_next/static/chunks/2srqadjlqrr4u.css","style"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[[["$","section",null,{"className":"DsQ9ba_hero grid-bg","children":["$undefined",["$","div",null,{"className":"DsQ9ba_shade","aria-hidden":"true"}],["$","div",null,{"className":"container DsQ9ba_inner","children":[["$","nav",null,{"aria-label":"현재 위치","className":"DsQ9ba_crumbs","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$Le",null,{"href":"/","children":"홈"}]}],["$","li","/privacy",{"children":["$","span",null,{"aria-current":"page","children":"개인정보처리방침"}]}]]}]}],["$","h1",null,{"className":"DsQ9ba_titleWrap","children":[["$","span",null,{"className":"it DsQ9ba_en","children":"PRIVACY"}],["$","span",null,{"className":"DsQ9ba_ko","children":["$undefined","개인정보처리방침"]}]]}],"$undefined","$undefined"]}]]}],["$","section",null,{"className":"section section--tight","children":["$","div",null,{"className":"container S6QRJW_prose","style":{"maxWidth":760},"children":[["$","p",null,{"children":["워너비 마케팅","(이하 '회사')는 상담 문의를 처리하기 위해 아래와 같이 개인정보를 수집·이용합니다."]}],["$","h2",null,{"children":"1. 수집 항목"}],["$","p",null,{"children":"상호명, 담당자 이름, 연락처, 이메일(선택), 매장 지역(선택), 문의 내용(선택)"}],["$","h2",null,{"children":"2. 이용 목적"}],["$","p",null,{"children":"마케팅 상담 및 견적 회신"}],["$","h2",null,{"children":"3. 보유 및 이용 기간"}],["$","p",null,{"children":"상담 완료 후 1년간 보관한 뒤 지체 없이 파기합니다. 관계 법령에서 따로 정한 경우 그 기간 동안 보관합니다."}],["$","h2",null,{"children":"4. 제3자 제공"}],["$","p",null,{"children":"회사는 이용자의 개인정보를 제3자에게 제공하지 않습니다. 법령에 따라 요구되는 경우는 예외로 합니다."}],["$","h2",null,{"children":"5. 처리 위탁"}],["$","p",null,{"children":"문의 내용 전달을 위해 이메일 발송 서비스를 이용할 수 있으며, 위탁 업체가 정해지면 이곳에 알립니다."}],["$","h2",null,{"children":"6. 이용자의 권리"}],["$","p",null,{"children":"이용자는 언제든 자신의 개인정보 열람, 정정, 삭제, 처리 정지를 요청할 수 있습니다."}],["$","h2",null,{"children":"7. 문의처"}],["$","p",null,{"children":["개인정보 관련 문의: ",["$","a",null,{"href":"mailto:hanahong272@gmail.com","children":"hanahong272@gmail.com"}]]}],["$","p",null,{"children":"시행일: 2026년 10월 28일"}]]}]}]],[["$","link","0",{"rel":"stylesheet","href":"/wannabe-marketing-site/_next/static/chunks/2srqadjlqrr4u.css","precedence":"next"}],["$","script","script-0",{"src":"/wannabe-marketing-site/_next/static/chunks/2rvqzk7lwj19o.js","async":true}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$9"}}]]
+2:[["children",{"s":"privacy","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"(site)","c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0a0a0b"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"개인정보처리방침 | 워너비 마케팅"}],["$","meta","1",{"name":"description","content":"단순히 노출을 만드는 마케팅이 아닌, 실제 고객의 유입과 브랜드의 성장을 만들어가는 마케팅을 합니다."}],["$","meta","2",{"name":"robots","content":"noindex"}],["$","meta","3",{"property":"og:title","content":"워너비 마케팅 | WANNABE MARKETING"}],["$","meta","4",{"property":"og:description","content":"당신의 브랜드가, 사람들에게 선택받는 브랜드가 될 때까지"}],["$","meta","5",{"property":"og:site_name","content":"워너비 마케팅"}],["$","meta","6",{"property":"og:locale","content":"ko_KR"}],["$","meta","7",{"property":"og:image","content":"https://theshy3819.github.io/wannabe-marketing-site/images/hero-pin.webp"}],["$","meta","8",{"property":"og:image:width","content":"1536"}],["$","meta","9",{"property":"og:image:height","content":"1024"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"워너비 마케팅 | WANNABE MARKETING"}],["$","meta","13",{"name":"twitter:description","content":"당신의 브랜드가, 사람들에게 선택받는 브랜드가 될 때까지"}],["$","meta","14",{"name":"twitter:image","content":"https://theshy3819.github.io/wannabe-marketing-site/images/hero-pin.webp"}],["$","meta","15",{"name":"twitter:image:width","content":"1536"}],["$","meta","16",{"name":"twitter:image:height","content":"1024"}],["$","link","17",{"rel":"icon","href":"/wannabe-marketing-site/icon.svg?icon.275bcuhemv_k_.svg","sizes":"any","type":"image/svg+xml"}],["$","$L17","18",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$9"}},"a":"$@19","u":"$@1a","b":"0IM3cHt8PCESayAXwJsfQ"}
+11:null
+1a:true
+9:300
+9:C
+19:0
+7:"$undefined"
+18:"$undefined"
+12:"$undefined"

@@ -1,0 +1,39 @@
+2:"$Sreact.fragment"
+3:"/wannabe-marketing-site/_next/static/chunks/0cqgnxxf3uglm.js"
+4:I[39914,["$3"],"default"]
+5:I[80147,["$3"],"default"]
+a:"/wannabe-marketing-site/_next/static/chunks/34-g942ujij53.js"
+b:"/wannabe-marketing-site/_next/static/chunks/3m_wspv-ka00x.js"
+c:I[2971,["$3","$a","$b"],"Header"]
+d:I[87732,["$3","$a","$b"],""]
+17:"ViewportBoundary"
+18:I[8188,["$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[8188,["$3"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[18637,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","$Lc",null,{}],["$","main",null,{"id":"main","children":["$","section",null,{"className":"DsQ9ba_hero grid-bg","children":["$undefined",["$","div",null,{"className":"DsQ9ba_shade","aria-hidden":"true"}],["$","div",null,{"className":"container DsQ9ba_inner","children":[["$","nav",null,{"aria-label":"현재 위치","className":"DsQ9ba_crumbs","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","span",null,{"aria-current":"page","children":"홈"}]}]]}]}],["$","h1",null,{"className":"DsQ9ba_titleWrap","children":[["$","span",null,{"className":"it DsQ9ba_en","children":"404"}],["$","span",null,{"className":"DsQ9ba_ko","children":["$undefined","페이지를 찾을 수 없습니다"]}]]}],["$","p",null,{"className":"lead DsQ9ba_desc","children":"주소가 바뀌었거나 없는 페이지입니다."}],["$","div",null,{"className":"btn-row","style":{"marginTop":40},"children":[["$","$Ld",null,{"href":"/","className":"btn btn--light","children":["처음으로",["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.6,"strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"children":["$","path",null,{"d":"M4 12h15M13 6l6 6-6 6"}]}]]}],["$","$Ld",null,{"href":"/services","className":"btn btn--ghost","children":"서비스 보기"}]]}]]}]]}]}],["$","footer",null,{"className":"S6Hkya_footer","children":[["$","section",null,{"className":"container S6Hkya_cta","aria-labelledby":"footer-cta","children":[["$","p",null,{"className":"eyebrow","children":"LET'S GROW"}],["$","h2",null,{"id":"footer-cta","className":"S6Hkya_ctaTitle","children":["당신의 브랜드가",["$","br",null,{}],["$","span",null,{"className":"accent","children":"선택받는 순간"}],"까지,",["$","br",null,{}],"함께 설계합니다."]}],["$","div",null,{"className":"S6Hkya_ctaSide","children":[["$","p",null,{"className":"lead","children":"업종과 상황을 알려 주시면 맞는 마케팅 방향을 안내해 드립니다. 아직 정해진 것이 없어도 괜찮습니다."}],["$","div",null,{"className":"btn-row","children":[["$","$Ld",null,{"href":"/contact","className":"btn btn--accent","children":["견적 문의하기",["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.6,"strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"children":["$","path",null,{"d":"M4 12h15M13 6l6 6-6 6"}]}]]}],["$","$Ld",null,{"href":"/diagnosis","className":"btn btn--ghost","children":"무료 진단 받기"}]]}]]}]]}],["$","div",null,{"className":"container S6Hkya_columns","children":[["$","div",null,{"className":"S6Hkya_brandCol","children":[["$","$Ld",null,{"href":"/","className":"S6Hkya_brand","children":[["$","svg",null,{"viewBox":"0 0 32 32","className":"S6Hkya_logo","aria-hidden":"true","children":[["$","rect",null,{"width":"32","height":"32","rx":"8","fill":"#ff4d1f"}],["$","path",null,{"d":"M7 10.5 11 22l5-9 5 9 4-11.5","fill":"none","stroke":"#fff","strokeWidth":"2.6","strokeLinecap":"round","strokeLinejoin":"round"}]]}],["$","span",null,{"children":"워너비 마케팅"}]]}],["$","p",null,{"className":"S6Hkya_slogan","children":"단순히 노출을 만드는 마케팅이 아닌, 실제 고객의 유입과 브랜드의 성장을 만들어가는 마케팅을 합니다."}],["$","a",null,{"href":"mailto:hanahong272@gmail.com","className":"S6Hkya_mail","children":"hanahong272@gmail.com"}]]}],["$","nav",null,{"className":"S6Hkya_col","aria-label":"서비스","children":[["$","p",null,{"className":"S6Hkya_colHead","children":"SERVICES"}],["$","ul",null,{"children":[["$","li","naver-place",{"children":["$","$Ld",null,{"href":"/services/naver-place","children":"네이버 플레이스 마케팅"}]}],["$","li","blog",{"children":["$","$Ld",null,{"href":"/services/blog","children":"블로그 마케팅"}]}],["$","li","search-ads",{"children":["$","$Ld",null,{"href":"/services/search-ads","children":"검색 광고"}]}],["$","li","sns",{"children":["$","$Ld",null,{"href":"/services/sns","children":"SNS 마케팅"}]}],["$","li","brand-consulting",{"children":["$","$Ld",null,{"href":"/services/brand-consulting","children":"브랜드 컨설팅"}]}]]}]]}],["$","nav",null,{"className":"S6Hkya_col","aria-label":"업종별 전략","children":[["$","p",null,{"className":"S6Hkya_colHead","children":"INDUSTRIES"}],["$","ul",null,{"children":[["$","li","restaurant",{"children":["$","$Ld",null,{"href":"/industries/restaurant","children":"요식업"}]}],["$","li","beauty",{"children":["$","$Ld",null,{"href":"/industries/beauty","children":"뷰티업"}]}],["$","li","clinic",{"children":["$","$Ld",null,{"href":"/industries/clinic","children":"병의원"}]}],["$","li","law",{"children":["$","$Ld",null,{"href":"/industries/law","children":"변호사"}]}],["$","li","local",{"children":["$","$Ld",null,{"href":"/industries/local","children":"일반업"}]}]]}]]}],["$","nav",null,{"className":"S6Hkya_col","aria-label":"회사","children":[["$","p",null,{"className":"S6Hkya_colHead","children":"COMPANY"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$Ld",null,{"href":"/about","children":"회사소개"}]}],["$","li",null,{"children":["$","$Ld",null,{"href":"/insights","children":"인사이트"}]}],["$","li",null,{"children":["$","$Ld",null,{"href":"/diagnosis","children":"무료 진단"}]}],"$Le","$Lf"]}]]}]]}],"$L10"]}]],["$L11","$L12","$L13","$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$8"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","meta","0",{"name":"description","content":"단순히 노출을 만드는 마케팅이 아닌, 실제 고객의 유입과 브랜드의 성장을 만들어가는 마케팅을 합니다."}],["$","link","1",{"rel":"icon","href":"/wannabe-marketing-site/icon.svg?icon.275bcuhemv_k_.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1c","2",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"0IM3cHt8PCESayAXwJsfQ"}
+20:I[8188,["$3"],"OutletBoundary"]
+:HL["/wannabe-marketing-site/_next/static/chunks/1nslgcsvph69y.css","style"]
+:HL["/wannabe-marketing-site/_next/static/chunks/2srqadjlqrr4u.css","style"]
+e:["$","li",null,{"children":["$","$Ld",null,{"href":"/contact","children":"견적 문의"}]}]
+f:["$","li",null,{"children":["$","$Ld",null,{"href":"/privacy","children":"개인정보처리방침"}]}]
+10:["$","div",null,{"className":"container S6Hkya_bottom","children":[["$","p",null,{"children":["© ",2026," WANNABE MARKETING. All rights reserved."]}],["$","p",null,{"className":"S6Hkya_bigword","aria-hidden":"true","children":"WANNABE"}]]}]
+11:["$","link","0",{"rel":"stylesheet","href":"/wannabe-marketing-site/_next/static/chunks/1nslgcsvph69y.css","precedence":"next"}]
+12:["$","link","1",{"rel":"stylesheet","href":"/wannabe-marketing-site/_next/static/chunks/2srqadjlqrr4u.css","precedence":"next"}]
+13:["$","script","script-0",{"src":"/wannabe-marketing-site/_next/static/chunks/34-g942ujij53.js","async":true}]
+14:["$","script","script-1",{"src":"/wannabe-marketing-site/_next/static/chunks/3m_wspv-ka00x.js","async":true}]
+15:["$","$L20",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+1f:true
+8:300
+21:null
+8:C
+1e:0
+6:"$undefined"
+1d:"$undefined"
+16:"$undefined"

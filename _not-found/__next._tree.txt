@@ -1,0 +1,7 @@
+:HL["/wannabe-marketing-site/_next/static/chunks/24vi1a3a141pr.css","style"]
+:HL["/wannabe-marketing-site/_next/static/chunks/1nslgcsvph69y.css","style"]
+:HL["/wannabe-marketing-site/_next/static/chunks/2srqadjlqrr4u.css","style"]
+:HL["https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
+0:{"b":"0IM3cHt8PCESayAXwJsfQ","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
