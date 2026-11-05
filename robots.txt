@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /wannabe-marketing-site/api/
+Disallow: /wannabe-marketing-site/v1/
+
+Sitemap: https://theshy3819.github.io/wannabe-marketing-site/sitemap.xml
